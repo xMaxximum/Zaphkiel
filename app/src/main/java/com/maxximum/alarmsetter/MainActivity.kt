@@ -327,7 +327,7 @@ fun AlarmSetterScreen(
         ) {
             // App title
             Text(
-                text = "Alarm Setter",
+                text = "Zaphkiel",
                 fontSize = 24.sp,
                 fontWeight = FontWeight.Bold,
                 color = Color(0xFF1976D2)
