@@ -19,3 +19,6 @@
 # If you keep the line number information, uncomment this to
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
+
+# Keep metadata commonly needed by Compose in release builds.
+-keepattributes Signature,*Annotation*

@@ -14,3 +14,9 @@
 .cxx
 local.properties
 .idea/
+
+# Signing keys (DO NOT COMMIT)
+*.keystore
+*.jks
+*.pem
+*.key
